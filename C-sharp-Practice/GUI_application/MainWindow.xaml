@@ -1,0 +1,12 @@
+<Window x:Class="LoginApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login App" Height="200" Width="300">
+    <Grid Margin="10">
+        <TextBox x:Name="DomainBox" Width="200" Height="25" VerticalAlignment="Top" PlaceholderText="Domain"/>
+        <TextBox x:Name="UsernameBox" Width="200" Height="25" VerticalAlignment="Top" Margin="0,30,0,0" PlaceholderText="Username"/>
+        <PasswordBox x:Name="PasswordBox" Width="200" Height="25" VerticalAlignment="Top" Margin="0,60,0,0" PlaceholderText="Password"/>
+        <Button x:Name="LoginButton" Content="Log In" Width="100" Height="30" VerticalAlignment="Top" Margin="50,95,50,0" Click="LoginButton_Click"/>
+        <TextBlock x:Name="ResultText" VerticalAlignment="Top" Margin="0,135,0,0" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>

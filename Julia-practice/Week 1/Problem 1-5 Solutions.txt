@@ -1,0 +1,47 @@
+Problem 1:
+a) Optimal solution is: x = 0.667 and y = 0, objective value = 0.667
+b) Optimal solution is: x1 = 20 and x2 = 60, objective value = 180
+
+
+Problem 2:
+xij := amount of tonnes of cargo i in compartment j, where i = {1, 2, 3, 4} and
+j ={1 (front), 2 (centre), 3 (rear)}
+Optimal values: [0.0, 0.0, 0.0, 7.0, 0.0, 8.0, 3.0, 12.9474, 0.0, 0.0, 3.05263, 0.0]
+Optimal objective value: 12151.579
+
+
+Problem 3
+
+x1 := the quantity of cake
+x2 := the quantity of cookies
+x3 := the quantity of bun batches
+the optimal solution: x1 = 4, x2 = 20, x3 = 2.
+The total costs are e60
+
+
+Problem 4:
+x1 := quantity of one-family houses
+x2 := quantity of two-family houses
+x3 := quantity of three-family houses
+x4 := quantity of recreational areas
+x1 = 179.42, x2 = 179.42, x3 =
+0.0, x4 = 2.69129 and the objective value is 22,988,126.65
+
+
+Problem 5:
+a)
+Let xi be the number of staff starting work on day i = {1, . . . , 
+In Excel the solution gives: x1 = 6.3, x2 = 3.3, x3 = 2, x4 = 7.3, x5 =
+0, x6 = 3.3, x7 = 0 with objective function value 22.3
+b)
+decision variables: yi be the number of part-time staff starting work on day I and xi from a)
+Excel gives the optimal solution as:
+x1 = 6.3333, x2 = 3.3333, x3 = 2, x4 = 2.0833, x5 = 0, x6 = 3.3333, x7 = 0
+y1 = y2 = y3 = y5 = y6 = y7 = 0, y4 = 10.5
+objective function value = 2470
+Julia gives the optimal solution as:
+x1 = 1.3333, x2 = 0, x3 = 2, x4 = 7.0033, x5 = 0, x6 = 3.3333, x7 = 3.0833
+y1 = y3 = y4 = y5 = y6 = 0, y2 = 6.6667, y7 = 3.8333
+objective function value = 2470
+
+

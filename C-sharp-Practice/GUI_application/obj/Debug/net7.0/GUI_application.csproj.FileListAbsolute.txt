@@ -1,0 +1,4 @@
+C:\Users\springnuance\Desktop\C-sharp-Practice\GUI_application\obj\Debug\net7.0\GUI_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\springnuance\Desktop\C-sharp-Practice\GUI_application\obj\Debug\net7.0\GUI_application.AssemblyInfoInputs.cache
+C:\Users\springnuance\Desktop\C-sharp-Practice\GUI_application\obj\Debug\net7.0\GUI_application.AssemblyInfo.cs
+C:\Users\springnuance\Desktop\C-sharp-Practice\GUI_application\obj\Debug\net7.0\GUI_application.csproj.CoreCompileInputs.cache
